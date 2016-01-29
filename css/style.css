@@ -1,0 +1,27 @@
+body{
+               background-image: url("http://41.media.tumblr.com/d49ae5e161089f913556e0f3d5859be8/tumblr_nxki63YZqQ1qzflkzo1_1280.jpg");
+               color:pink;
+               text-align:center;
+            }
+            
+            div.static {
+                position:static; 
+            }
+            .sidebar{
+                width:100%;
+                text-align:center;
+            }
+            
+            a:link {
+               color: grey;
+
+            }
+            a:visited {
+                color: pink;
+            }
+            a:hover {
+                color: hotpink;
+            }
+            a:active {
+                color: pink;
+            }

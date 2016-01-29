@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style type="text/css">
+            body {
+                background-color:white;
+                color:green;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <nav>
+            <h3>My Kicking Site</h3>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+            </ul>
+        </nav>
+        <div class="content">
+            <div class="">
+                <img src="http://lorempixel.com/700/300" />
+            </div>
+            
+            <h2>Harvey Sanders</h2>
+            <h4>Work & Learn Code Mentor</h4>
+            
+            <p>I love to teach others how to code.</p>
+            
+            <h4>Interests & Hobbies</h4>
+            <ul>
+                <li>Rock Climbing</li>
+                <li>Coding</li>
+                <li>Burritos</li>
+            </ul>
+            <div class="contact-info">
+                <p>sanders.harvey@gmail.com</p>
+            </div>
+        </div>
+    </body>
+</html>
